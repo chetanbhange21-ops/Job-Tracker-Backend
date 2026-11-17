@@ -16,7 +16,7 @@ Built with: Java 17 | Spring Boot 3.2 | MySQL | JWT Authentication | REST APIs
 # 1. Clone / open the project in IntelliJ IDEA
 
 # 2. Create MySQL database
-CREATE DATABASE job_tracker_db;
+CREATE DATABASE job_tracker;
 
 # 3. Update application.properties with your MySQL password
 spring.datasource.password=your_mysql_password
